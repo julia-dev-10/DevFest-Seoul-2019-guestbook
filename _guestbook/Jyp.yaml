@@ -1,6 +1,6 @@
 ---
 name: {{박주연}}
-image: {{ -- }}
+image: {{ https://avatar.tobi.sh/tobiaslins.svg?text=JY }}
 emoji: 🥳
 message: {{HELLO  GDG Seoul!}}
 ---
